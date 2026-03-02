@@ -41,7 +41,7 @@ git clone https://github.com/zeus289x/discordtyper.git
 5. Klasöre Gir
 
 ```bash
-cd discord-typer
+cd discordtyper
 ```
 
 6. Çalıştır
